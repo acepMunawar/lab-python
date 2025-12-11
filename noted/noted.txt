@@ -1,0 +1,12 @@
+Access Modifiers dalam Python
+
+Syntax      |   Nama	                |   Mirip di Java	|   Catatan
+--------------------------------------------------------------------------------------------------------
+variable    |   Public	                |   public          |   Bisa diakses dari mana saja
+_variable	|   Protected (konvensi)	|   protected	    |   Tidak dilindungi oleh Python, hanya “warning” untuk programmer
+__variable	|   Private (name mangling)	|   private	        |   Lebih sulit diakses, tapi masih bisa dibypass
+
+
+Jika ingin cara Pythonic: gunakan @property
+
+Programmer Python modern jarang pakai setter/getter manual.
