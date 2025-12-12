@@ -1,6 +1,6 @@
-from kendaraan import kendaraan
+from kendaraan import Kendaraan
 
-class Mobil(kendaraan):
+class Mobil(Kendaraan):
 
     def klakson(self):
         print(f"Mobile {self.info()} memiliki klaskson")

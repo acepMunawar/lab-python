@@ -1,4 +1,4 @@
-class kendaraan:
+class Kendaraan:
     def __init__(self, merek, tahun):
         self.merek = merek
         self.tahun = tahun

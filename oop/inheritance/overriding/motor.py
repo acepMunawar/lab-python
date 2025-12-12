@@ -1,9 +1,10 @@
-from kendaraan import kendaraan
+from kendaraan import Kendaraan
 
-class Motor(kendaraan):
+class Motor(Kendaraan):
 
     def klakson(self):
         print(f"Motor {self.info()} memiliki klakson")
 
+# Overriding
     def nyalakan(self):
         print(f"{self.merek} dinyalakan secara otomatis")
