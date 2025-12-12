@@ -1,0 +1,3 @@
+super() di dalam python adalah fungsi yang digunakan untuk
+memanggil method dari parent class ketika kita bekerja 
+dengan inheritance

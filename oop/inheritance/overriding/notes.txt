@@ -1,0 +1,5 @@
+Overriiding adalah fungsi dimana childnya merubah sifat parent fungsinya
+
+
+contohnya ada di file motor yang dimana function nyalakan
+di rubah function parentnya di class motor
