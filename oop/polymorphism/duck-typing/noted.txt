@@ -1,0 +1,6 @@
+Duck typing adalah cara kerja di Python (dan bahasa dinamis lainnya) di mana tipe atau class suatu objek tidak penting, yang penting objek tersebut memiliki metode atau atribut yang dibutuhkan.
+
+Dengan kata lain:
+
+“Kalau sesuatu berjalan seperti bebek, berenang seperti bebek, dan bersuara seperti bebek — maka itu dianggap bebek.”
+(even if it's not actually a duck)
